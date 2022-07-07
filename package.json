@@ -20,6 +20,9 @@
     "profanity",
     "filter"
   ],
+   "precommit": [
+     "build"
+   ],
   "dependencies": {
     "badwords-list": "^1.0.0"
   },
